@@ -1,141 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset>
     <url>
         <name>Activity concentrations of Be-7 and Pb-210</name>
         <id>59</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=59
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=59</loc>
     </url>
     <url>
         <name>Aerosol ABS, SCT, SSA Exponents</name>
         <id>17</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=17
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=17</loc>
     </url>
     <url>
         <name>Aerosol absorption coefficients</name>
         <id>10</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=10
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=10</loc>
     </url>
     <url>
         <name>Aerosol particle number and mass concentrations</name>
         <id>1</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=1
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=1</loc>
     </url>
     <url>
         <name>Aerosol scattering coefficients</name>
         <id>11</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=11
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=11</loc>
     </url>
     <url>
         <name>Borehole 3</name>
         <id>62</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=62
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=62</loc>
     </url>
     <url>
         <name>Ecotech Aurora 3000 RAW data</name>
         <id>110</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=110
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=110</loc>
     </url>
     <url>
         <name>Ecotech Aurora 4000 RAW data</name>
         <id>55</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=55
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=55</loc>
     </url>
     <url>
         <name>Glacier Goldbergkees</name>
         <id>65</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=65
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=65</loc>
     </url>
     <url>
         <name>Glacier Kleinfleißkees</name>
         <id>66</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=66
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=66</loc>
     </url>
     <url>
         <name>Greenhouse Gases</name>
         <id>74</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=74
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=74</loc>
     </url>
     <url>
         <name>Historical meteorological parameters (HISTALP)</name>
         <id>4</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=4
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=4</loc>
     </url>
     <url>
         <name>Iceload</name>
         <id>168</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=168
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=168</loc>
     </url>
     <url>
         <name>Magee Aethalometer AE33 RAW data</name>
         <id>54</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=54
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=54</loc>
     </url>
     <url>
         <name>Meteorological standard parameters</name>
         <id>27</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=27
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=27</loc>
     </url>
     <url>
         <name>PWD 52 RAW data</name>
         <id>133</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=133
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=133</loc>
     </url>
     <url>
         <name>Palas Promo 3000 RAW data</name>
         <id>129</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=129
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=129</loc>
     </url>
     <url>
         <name>Sharp 5030 TSP RAW data</name>
         <id>51</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=51
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=51</loc>
     </url>
     <url>
         <name>TSI CPC 3775 RAW data</name>
         <id>64</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=64
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=64</loc>
     </url>
     <url>
         <name>Total Column Ozone</name>
         <id>76</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=76
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=76</loc>
     </url>
     <url>
         <name>Trace Gases (L1)</name>
         <id>79</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=79
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=79</loc>
     </url>
     <url>
         <name>UV Radiation</name>
         <id>3</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=3
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=3</loc>
     </url>
     <url>
         <name>Wet deposition</name>
         <id>77</id>
-        <loc>https://data.sonnblick.net/science-on-schema-detail.php?url_id=77
-        </loc>
+        <loc>https://data.sonnblick.net/science-on-schema-detail.php?dataset_id=77</loc>
     </url>
 </urlset>
